@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "MonkeyDuo",
+      "image": "https://boygeniusreport.files.wordpress.com/2018/01/screen-shot-2018-01-24-at-2-56-25-pm.png?w=782"
+    },
+    {
+      "id": 2,
+      "name": "RedLipMonk",
+      "image": "https://thumbs-prod.si-cdn.com/CiMxIx5U9bAK_BzPOQOQOZPn0es=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/36/e1/36e12c18-426f-4639-a3f0-39599edbed4d/42-56243662.jpg"
+    },
+    {
+      "id": 3,
+      "name": "MonkeyTrio",
+      "image": "http://c0.thejournal.ie/media/2018/01/sulawesi-crested-macaques-390x285.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MonkeySelfie",
+      "image": "https://cdn.vox-cdn.com/thumbor/Or0rhkc1ciDqjrKv73IEXGHtna0=/0x0:666x444/1200x800/filters:focal(273x193:379x299)/cdn.vox-cdn.com/uploads/chorus_image/image/59384673/Macaca_nigra_self-portrait__rotated_and_cropped_.0.jpg"
+    },
+    {
+      "id": 5,
+      "name": "AngryMonkey",
+      "image": "https://vcresearch.berkeley.edu/sites/default/files/news_images/baboonteeth410-410x273.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Rafiqui",
+      "image": "https://cdn.britannica.com/32/185832-049-C98A4A50.jpg"
+    },
+    {
+      "id": 7,
+      "name": "MonkeyWeen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE9TyF15zTjsiwdyrOUyy188O1B5z99GXSLAsq3eCQtw8A_mpaGA"
+    },
+    {
+      "id": 8,
+      "name": "MonkeyStoned",
+      "image": "https://hightimes.com/wp-content/uploads/2018/01/smoking-weed-monkeys-lead-killer-herpes-hero.jpg"
+    },
+    {
+      "id": 9,
+      "name": "ChillMonk",
+      "image": "https://i.pinimg.com/originals/73/f9/07/73f9072f1c39b6dddaae221715984dd2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "ToothyMonk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Long-tailed_macaque_%28Macaca_fascicularis%29_Labuk_Bay.jpg"
+    },
+    {
+      "id": 11,
+      "name": "GazingMonkey",
+      "image": "https://pixfeeds.com/images/animals/monkeys/1280-529401708-portrait-of-white-headed-capuchin-monkey.jpg"
+    },
+    {
+      "id": 12,
+      "name": "MonkSigh",
+      "image": "http://lh6.ggpht.com/_V8eL123JnRo/RfBVFNM1BrI/AAAAAAAAAEE/BFb_zP1LB9M/DSC06977.JPG"
+    }
+]
